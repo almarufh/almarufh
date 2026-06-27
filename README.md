@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDM0aGYxa2p3bWxmaDR2OTQzY2piYWFhdWR0MHRleW1peGFlZTZkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEqhXX8g7J2D0QuhxI/giphy.gif" width="80%" />
+<img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDM0aGYxa2p3bWxmaDR2OTQzY2piYWFhdWR0MHRleW1peGFlZTZkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEqhXX8g7J2D0QuhxI/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE4aTkyaDNsaWJvaHA4eGd4djUwZzF5NjNycDN5dmN1ZGRycmxqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUTywPPYZpdDChyBaZ/giphy.gif)" width="80%" />
 
 </div>
 
-<h1 align="center">🌌 XONE 🌌</h1>
+<h1 align="center">🌌 almarufh_ 🌌</h1>
 
 <h3 align="center">
 Backend Developer Enthusiast • Information Systems Student • Tech Explorer
@@ -33,8 +33,8 @@ Backend Developer Enthusiast • Information Systems Student • Tech Explorer
 # 💫 About Me
 
 ```yaml
-name: Fatawa Imam Al Muftin
-nickname: XONE
+name: Almaruf Hidayat
+nickname: almarufh_
 location: Indonesia
 major: Information Systems
 focus: Backend Development
